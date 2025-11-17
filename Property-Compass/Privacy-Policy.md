@@ -169,4 +169,3 @@ This Privacy Policy complies with:
 ---
 
 *This privacy policy is effective as of November 17, 2025 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.*
-
