@@ -28,16 +28,17 @@
 ## Subscriptions
 
 ### What's included in the free version?
-- Import up to **5 images** at once
+- Process up to **10 images** per batch
 - All cropping features
-- Basic editing adjustments
+- All editing adjustments (brightness, contrast, saturation, etc.)
 - Export to JPEG and PNG
+- Access to common crop ratios
 
 ### What's included in Premium?
-- Import up to **100 images** at once
-- All **9 export formats** (JPEG, PNG, HEIC, WebP, TIFF, BMP, GIF, PDF)
-- All **14 professional crop ratios**
-- Advanced editing tools
+- **Unlimited batch processing** (100+ images)
+- All **5 export formats** (JPEG, PNG, HEIC, WebP, TIFF)
+- Access to **professional crop ratios** (4:5, 2:3, 16:9, etc.)
+- Same powerful editing tools as free version
 
 ### How do I upgrade to Premium?
 1. Click **Upgrade** in the toolbar
@@ -100,13 +101,13 @@ JPEG, PNG, HEIC, GIF, BMP, TIFF
 JPEG, PNG
 
 ### Export (Premium)
-JPEG, PNG, HEIC, WebP, TIFF, BMP, GIF, PDF, JPEG 2000
+JPEG, PNG, HEIC, WebP, TIFF
 
 ---
 
 ## Contact Support
 
-**Email:** support@exonary.com
+**Email:** support@noblestack.io
 
 **Response Time:** Within 24-48 hours
 
@@ -123,12 +124,21 @@ When contacting support, please include:
 RapidPhoto processes all images **locally on your Mac**. We do not:
 - Upload your images to any server
 - Collect or store your photos
-- Track your editing activity
-- Share your data with third parties
+- Share your personal data with third parties
 
-The only data we collect is subscription status through Apple's StoreKit framework.
+### Data We Collect
 
-[Privacy Policy](#) | [Terms of Service](#)
+We collect **anonymous usage analytics** to improve the app:
+- App launch events
+- Feature usage (crop ratios, adjustments, export formats)
+- Number of images processed (not the images themselves)
+
+This data is:
+- **Not linked to your identity**
+- Processed through TelemetryDeck (privacy-first analytics)
+- Used only to improve the app
+
+[Privacy Policy](PRIVACY_POLICY.md) | [Terms of Service](TERMS_OF_SERVICE.md)
 
 ---
 

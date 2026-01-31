@@ -8,15 +8,31 @@ RapidPhoto ("we", "our", or "the app") is a macOS photo cropping and editing app
 
 ## Information We Collect
 
-**We do not collect, share, or transmit any data.**
+### Anonymous Usage Analytics
 
-RapidPhoto is a completely offline application that:
-- Does not require an account or registration
-- Does not collect, store, or transmit any user data
-- Does not share any information with third parties
-- Does not use analytics or tracking services
-- Does not access the internet
-- Processes all images entirely on your local device
+RapidPhoto collects **anonymous, aggregated usage data** to help us improve the app. This data is:
+- **Not linked to your identity** - No personal information, email, or account data
+- **Privacy-first** - Processed through TelemetryDeck, a GDPR-compliant analytics service
+- **Minimal** - Only basic app interactions like feature usage and export counts
+
+**What we collect:**
+- App launch events
+- Number of images imported (not the images themselves)
+- Features used (crop ratios, adjustments, export formats)
+- Subscription interactions (e.g., when you view the upgrade screen)
+
+**What we DO NOT collect:**
+- Your photos or any image content
+- Personal information or identifiable data
+- Location data
+- Device identifiers that can track you across apps
+
+### Local Processing
+
+All image processing occurs locally on your device:
+- **Photos you import** are processed entirely on your Mac
+- **Edited images** are saved only to locations you choose
+- **No images** are sent to external servers
 
 ## Data Processing
 
@@ -27,7 +43,12 @@ All image processing occurs locally on your device:
 
 ## Third-Party Services
 
-RapidPhoto does not integrate with any third-party services, advertising networks, or analytics platforms.
+RapidPhoto uses **TelemetryDeck** for anonymous analytics. TelemetryDeck is a privacy-focused analytics service that:
+- Does not track individual users
+- Complies with GDPR and other privacy regulations
+- Aggregates data to protect user privacy
+
+Learn more: [TelemetryDeck Privacy Policy](https://telemetrydeck.com/privacy/)
 
 ## Data Storage
 
